@@ -1,0 +1,104 @@
+*{
+    margin: 0;
+    padding: 0;
+    font-family: Arial, sans-serif;
+}
+
+
+a{
+    color: #a3582e;
+    font-weight: 550;
+    text-decoration: none;
+    font-size: 20px;
+}
+
+header{
+    height: 60px;
+    background-color:#a3582e;
+    text-align: center;
+}
+
+.NavBar{
+    padding-top: 18px;
+}
+
+#navbar-title{
+    color: #f4ebea;
+    font-size: 25px;
+}
+
+.Items{
+    padding-top: 20px;
+    padding-bottom: 15px;
+}
+
+#item-table{
+    width: 100%;
+    text-align: center;
+   
+}
+
+.Item-img{
+    height: 64px;
+}
+
+.Item-tag{
+    font-size: 14px;
+}
+
+.Item-tag:hover{
+    color:#dbb496;
+}
+
+.Shopping-container{
+    background-color: #f4ebea;
+    text-align: center;
+    padding-bottom: 30px;
+}
+#OURUPCOMINGSALES{
+    color:#a3582e;
+}
+
+#shopping-time-img{
+    margin-top: 30px;
+    width: 50%;
+    height: 70vh;
+    background-color:#b58463 ;
+    
+    
+}
+
+.Sales-table{
+    width: 90vw;
+    margin: auto;
+    border: 1px solid ;
+    border-collapse: collapse;
+    padding: 12px;
+    color:#b58463;
+}
+
+
+.Sales-table-head{
+    color: #f4ebea;
+    padding: 12px;
+    margin: auto;
+    border: 1px solid ;
+    border-collapse: collapse;
+    background-color: #a3582e;
+}
+
+
+.Information{
+    width: 92vw;
+    margin: 20px;
+    font-size: 11px;
+    color:#dbb496;
+    list-style-position: inside;
+}
+footer{
+    height: 50px;
+    padding-top: 28px;
+    background-color: #a3582e;
+    color:#f4ebea;
+    text-align:center;
+}
